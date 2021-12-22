@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <p>2022 DCODELAB &copy;RIGHTS RESERVED.</p>
+        <p>2022 DCODELAB &copy;All RIGHTS RESERVED.</p>
     )
 }
 
